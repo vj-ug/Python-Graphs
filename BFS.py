@@ -1,3 +1,5 @@
+# Breadth First Search
+
 def bfs(graph, start):
     visited, queue = set(), [start]
     while queue:
