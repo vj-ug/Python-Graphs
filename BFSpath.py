@@ -1,3 +1,5 @@
+# Path in Breadth First Search
+
 def bfs_paths(graph, start, goal):
     queue = [(start, [start])]
     while queue:
